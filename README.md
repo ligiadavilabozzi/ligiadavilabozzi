@@ -9,6 +9,9 @@ My name is Lígia D'Ávila Bozzi
 - 📫 How to reach me: ligia.bozzi@gmail.com
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--
