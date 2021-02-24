@@ -8,8 +8,8 @@ My name is Lígia D'Ávila Bozzi
 - 🤔 I’m looking for help with javascript and html
 - 📫 How to reach me: ligia.bozzi@gmail.com
 
-START_SECTION:waka
-END_SECTION:waka
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **ligiadavilabozzi/ligiadavilabozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
