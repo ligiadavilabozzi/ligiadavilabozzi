@@ -10,7 +10,7 @@ My name is Lígia D'Ávila Bozzi
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CSS    4 mins          ████████████████████████░   95.50 % 
 ```
 <!--END_SECTION:waka-->
 
