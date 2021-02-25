@@ -10,7 +10,8 @@ My name is Lígia D'Ávila Bozzi
 
 <!--START_SECTION:waka-->
 ```text
-CSS    4 mins          ████████████████████████░   95.50 % 
+HTML   2 hrs 24 mins   ████████████████████████▒   96.90 % 
+CSS    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
 <!--END_SECTION:waka-->
 
