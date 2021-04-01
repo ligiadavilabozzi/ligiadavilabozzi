@@ -10,8 +10,10 @@ My name is Lígia D'Ávila Bozzi
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 23 mins    ███████████████▓░░░░░░░░░   62.80 % 
-EJS          48 mins         █████████▒░░░░░░░░░░░░░░░   36.73 % 
+JavaScript   3 hrs 32 mins   ██████████████░░░░░░░░░░░   56.61 % 
+EJS          2 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   34.56 % 
+CSS          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+HTML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
 <!--END_SECTION:waka-->
 
