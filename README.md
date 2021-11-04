@@ -1,9 +1,6 @@
-# Untitled
-
-```
 ### Hi There, I'm Lígia D'Ávila Bozzi 👋
 
- <img align="right" alt="GIF" src="https://i.gifer.com/7ImI.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://i.gifer.com/7ImI.gif" width="500" height="320" />
 
 ## I'm a Full Stack Developer 
 
