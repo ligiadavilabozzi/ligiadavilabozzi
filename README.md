@@ -1,8 +1,7 @@
 ### Hi There, I'm Lígia D'Ávila Bozzi 👋
 
- <img align="right" alt="GIF" src="https://i.gifer.com/7ImI.gif" width="500" height="320" />
-
 ## I'm a Full Stack Developer 
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/77364331/140390661-1f86399b-3385-4776-9419-652d799c2c7b.gif" width="430" height="230" />
 
 - 🌱 I’m currently learning tests (cypress)
 - 🔭 I'm currently working as a web development tutor at Driven Education.
@@ -12,14 +11,22 @@
 - Master's degree in educational technologies.
 - I was a chemistry teacher for 5 years. 
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="Lígia D'Ávila Bozzi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Talk with me:
+[<img align="left" alt="Lígia D'Ávila Bozzi | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Visual Studio Code</title><path d="M23.15 2.587L18.21.21a1.494 1.494 0 0 0-1.705.29l-9.46 8.63-4.12-3.128a.999.999 0 0 0-1.276.057L.327 7.261A1 1 0 0 0 .326 8.74L3.899 12 .326 15.26a1 1 0 0 0 .001 1.479L1.65 17.94a.999.999 0 0 0 1.276.057l4.12-3.128 9.46 8.63a1.492 1.492 0 0 0 1.704.29l4.942-2.377A1.5 1.5 0 0 0 24 20.06V3.939a1.5 1.5 0 0 0-.85-1.352zm-5.146 14.861L10.826 12l7.178-5.448v10.896z"/></svg>" />]
+[<img align="left" alt="vs code" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
+<img align="left" alt="react" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_wordmark_logo_icon_146375.png" />
+<img align="left" alt="html" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/html_original_wordmark_logo_icon_146478.png" />
+<img align="left" alt="css" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/css_original_wordmark_logo_icon_146576.png" />
+<img align="left" alt="node" width="30px" src="https://cdn.icon-icons.com/icons2/512/PNG/128/prog-nodejs01_icon-icons.com_50781.png" />
+<img align="left" alt="git" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png" />
+<img align="left" alt="javascript" width="30px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" />
+<img align="left" alt="sql" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_sql_icon_130152.png" />
+<img align="left" alt="postgres" width="30px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />
+]
 
 <br />
 <br />
@@ -46,4 +53,3 @@ and Job profile at Driven:
 [instagram]: https://www.instagram.com/ligia.bozzi/
 [linkedin]: https://www.linkedin.com/in/ligia-davila-bozzi/
 [portfolio]: https://github.com/ligiadavilabozzi
-```
