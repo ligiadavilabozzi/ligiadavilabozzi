@@ -30,12 +30,13 @@
 
 <br />
 <br />
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Lígia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ligiadavilabozzi&show_icons=true&hide_border=true" />
+ 
+ <br />
 
 and Job profile at Driven:
 
