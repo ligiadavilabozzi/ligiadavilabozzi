@@ -3,6 +3,8 @@
 
 <img align="right" alt="Lígia D'Ávila Bozzi | Avatar" src="https://github.com/ligiadavilabozzi/ligiadavilabozzi/blob/main/ligia-avatar.png" width="300"  />
 
+
+
 - 👩🏻‍💻 I'm currently working at Driven Education as Web Programming Teacher Assistent. 
 
 - 💬 I speak English and Portuguese. 
