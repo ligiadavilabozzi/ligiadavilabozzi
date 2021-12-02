@@ -16,7 +16,7 @@
 [<img align="left" alt="Lígia D'Ávila Bozzi | Email" width="34px" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" />][gmail]
 
 <br />
-
+<br />
 
 ## Technologies 
   ### Front-end:
