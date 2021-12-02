@@ -12,10 +12,11 @@
 - 👩🏻‍🏫 I was a chemistry teacher for 5 years. 
 
 ### Talk with me:
-[<img align="left" alt="Lígia D'Ávila Bozzi | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Lígia D'Ávila Bozzi | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" />][gmail]
+[<img align="left" alt="Lígia D'Ávila Bozzi | LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Lígia D'Ávila Bozzi | Email" width="34px" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" />][gmail]
 
 <br />
+
 
 ## Technologies 
   ### Front-end:
