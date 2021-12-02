@@ -1,7 +1,7 @@
 ## Hi There, I'm Lígia D'Ávila Bozzi 👋
 ### I'm a Full Stack Developer 
 
-<img align="right" alt="Lígia D'Ávila Bozzi | Avatar" src="https://github.com/ligiadavilabozzi/ligiadavilabozzi/blob/main/ligia-avatar.png" width="400"  />
+<img align="right" alt="Lígia D'Ávila Bozzi | Avatar" src="https://github.com/ligiadavilabozzi/ligiadavilabozzi/blob/main/ligia-avatar.png" width="300"  />
 
 - 👩🏻‍💻 I'm currently working at Driven Education as Web Programming Teacher Assistent. 
 
