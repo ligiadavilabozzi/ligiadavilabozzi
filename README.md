@@ -2,10 +2,7 @@
 ### I'm a Full Stack Developer 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/77364331/140390661-1f86399b-3385-4776-9419-652d799c2c7b.gif" width="400" height="230" />
-
-- 🌱 I’m currently learning tests (cypress)
-- 👩🏻‍💻 I'm currently working as a web development tutor at Driven Education.
-
+- 👩🏻‍💻 I'm currently working at Driven Education as Web Programming Teacher Assistent. 
 - 💬 I speak English and Portuguese. 
 - 📚 I'm master's degree in educational technologies.
 - 👩🏻‍🏫 I was a chemistry teacher for 5 years. 
@@ -16,15 +13,18 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="vs code" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />][vscode]
-[<img align="left" alt="react" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_wordmark_logo_icon_146375.png" />][react]
-[<img align="left" alt="html" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/html_original_wordmark_logo_icon_146478.png" />][html]
-[<img align="left" alt="css" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/css_original_wordmark_logo_icon_146576.png" />][css]
-[<img align="left" alt="node" width="30px" src="https://cdn.icon-icons.com/icons2/512/PNG/128/prog-nodejs01_icon-icons.com_50781.png" />][node]
-[<img align="left" alt="git" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png" />][git]
-[<img align="left" alt="javascript" width="30px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" />][javascript]
-[<img align="left" alt="postgres" width="30px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />][postgres]
-[<img align="left" alt="postgres" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" />][mysql]
+  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![StyledComponents](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+  ![Cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=61DAFB)
+
 
 <br />
 <br />
