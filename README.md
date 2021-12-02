@@ -13,7 +13,7 @@
 
 ### Talk with me:
 [<img align="left" alt="Lígia D'Ávila Bozzi | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Lígia D'Ávila Bozzi | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" />[gmail]
+[<img align="left" alt="Lígia D'Ávila Bozzi | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" />][gmail]
 
 <br />
 
@@ -30,8 +30,8 @@
   ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
  
   <br />
-  ![StyledComponents](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![StyledComponents](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
   ### Back-end:
