@@ -2,9 +2,13 @@
 ### I'm a Full Stack Developer 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/77364331/140390661-1f86399b-3385-4776-9419-652d799c2c7b.gif" width="400" height="230" />
+
 - 👩🏻‍💻 I'm currently working at Driven Education as Web Programming Teacher Assistent. 
+
 - 💬 I speak English and Portuguese. 
+
 - 📚 I'm master's degree in educational technologies.
+
 - 👩🏻‍🏫 I was a chemistry teacher for 5 years. 
 
 ### Talk with me:
@@ -17,7 +21,7 @@
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -26,7 +30,6 @@
 
   ### Back-end:
   
-
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -35,8 +38,8 @@
   
   ###Tests
   
-    ![Cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=61DAFB)
-    ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
+ ![Cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=61DAFB)
+ ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
    
 ##Tools
 
