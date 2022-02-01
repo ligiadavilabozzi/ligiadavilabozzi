@@ -1,15 +1,15 @@
 ## Hi There, I'm Lígia D'Ávila Bozzi 👋
 ### I'm a Full Stack Developer 
 
-<img align="right" alt="Lígia D'Ávila Bozzi | Avatar" src="https://github.com/ligiadavilabozzi/ligiadavilabozzi/blob/main/ligia-avatar.png" width="300"  />
+<img align="right" alt="Lígia D'Ávila Bozzi | Avatar" src="https://octodex.github.com/images/labtocat.png" width="300"  />
 
-
+- 📚 I'm studying Data Engineer at MIT
 
 - 👩🏻‍💻 I'm currently working at Driven Education as Web Programming Teacher Assistent. 
 
 - 💬 I speak English and Portuguese. 
 
-- 📚 I'm master's degree in educational technologies.
+- 🎓 I'm master's degree in educational technologies.
 
 - 👩🏻‍🏫 I was a chemistry teacher for 5 years. 
 
