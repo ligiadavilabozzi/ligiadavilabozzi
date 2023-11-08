@@ -1,11 +1,11 @@
 ## Hi There, I'm Lígia D'Ávila Bozzi 👋
-### I'm a Full Stack Developer 
+### I'm data Engineering
 
 <img align="right" alt="Lígia D'Ávila Bozzi | Avatar" src="https://octodex.github.com/images/labtocat.png" width="300"  />
 
-- 📚 I'm studying Data Engineer at MIT
+- 📚 I studied Data Engineer at MIT
 
-- 👩🏻‍💻 I'm currently working at Driven Education as Web Programming Teacher Assistent. 
+- 👩🏻‍💻 I'm currently working at Artefact 
 
 - 💬 I speak English and Portuguese. 
 
